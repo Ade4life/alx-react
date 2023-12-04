@@ -1,0 +1,16 @@
+/* Notifications/Notifications.css */
+.menuItem {
+  /* Your styling for menu item */
+}
+
+.Notifications {
+  /* Your styling for notifications */
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
